@@ -1,0 +1,5 @@
+some text from first file here
+
+{{ import "simple.jet" }}
+
+another text from first file here
